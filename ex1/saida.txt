@@ -1,0 +1,4 @@
+/tmp/alvo.txt: fb8c52433278fd8ee0f18c7151f8e722
+/etc/passwd: ecd46985391a3718007a8901b9200683
+/etc/group: 16dfbc094af687e75313fe23c3ba7c64
+/etc/shadow: 4be8e35fc753c87ee8cf005610f1ea85

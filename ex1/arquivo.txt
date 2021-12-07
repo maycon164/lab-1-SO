@@ -1,0 +1,4 @@
+/tmp/alvo.txt
+/etc/passwd
+/etc/group
+/etc/shadow
